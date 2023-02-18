@@ -1,0 +1,21 @@
+.container {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.container button {
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+}
+
+.increment {
+  background-color: #228b22;
+  color: #f0ffff;
+}
+
+.decrement {
+  background-color: #e00202;
+  color: #f0ffff;
+}
